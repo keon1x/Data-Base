@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Страница — 1" id="UvYoTLwYC44R5NEeWyIu">
-    <mxGraphModel dx="2345" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9hpmNjstcmv_1WwBuSR--104" value="ID клиента" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-395" y="680" width="85" height="30" as="geometry" />
+          <mxGeometry x="-395" y="660" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9hpmNjstcmv_1WwBuSR--105" value="Бронирование" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-270" y="670" width="120" height="60" as="geometry" />
@@ -154,17 +154,8 @@
             <mxPoint x="-360.46" y="679.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9hpmNjstcmv_1WwBuSR--107" value="ID номера" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-381" y="630" width="83" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9hpmNjstcmv_1WwBuSR--108" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="9hpmNjstcmv_1WwBuSR--105" target="9hpmNjstcmv_1WwBuSR--107" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-326" y="760" as="sourcePoint" />
-            <mxPoint x="-276" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9hpmNjstcmv_1WwBuSR--109" value="Дата предполагаемого заселения" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="580" width="105" height="50" as="geometry" />
+          <mxGeometry x="-370" y="590" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9hpmNjstcmv_1WwBuSR--110" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="9hpmNjstcmv_1WwBuSR--105" target="9hpmNjstcmv_1WwBuSR--109" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -173,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9hpmNjstcmv_1WwBuSR--111" value="Срок бронирования (в днях)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="537.5" width="105" height="62.5" as="geometry" />
+          <mxGeometry x="-280" y="543.75" width="105" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="9hpmNjstcmv_1WwBuSR--112" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="9hpmNjstcmv_1WwBuSR--105" target="9hpmNjstcmv_1WwBuSR--111" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -188,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9hpmNjstcmv_1WwBuSR--114" value="Предварительная стоимость проживания" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-175" y="555" width="140" height="55" as="geometry" />
+          <mxGeometry x="-175" y="565" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="9hpmNjstcmv_1WwBuSR--115" value="ID бронирования" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="-410" y="720" width="115" height="40" as="geometry" />
@@ -200,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9hpmNjstcmv_1WwBuSR--117" value="Статус бронирования" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-125" y="620" width="125" height="70" as="geometry" />
+          <mxGeometry x="-120" y="630" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="9hpmNjstcmv_1WwBuSR--118" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="9hpmNjstcmv_1WwBuSR--105" target="9hpmNjstcmv_1WwBuSR--117" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -399,23 +390,14 @@
             <mxPoint x="696" y="647.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6H3UFGkFm95STktniJLg-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dHrt1mE7ao5hDx64uy73-4" target="6H3UFGkFm95STktniJLg-2">
+        <mxCell id="6H3UFGkFm95STktniJLg-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="dHrt1mE7ao5hDx64uy73-4" target="6H3UFGkFm95STktniJLg-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="895" y="1080" as="sourcePoint" />
             <mxPoint x="940" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6H3UFGkFm95STktniJLg-2" value="ID бронирования" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6H3UFGkFm95STktniJLg-2" value="ID бронирования" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="895" y="1028.75" width="100" height="46.25" as="geometry" />
-        </mxCell>
-        <mxCell id="6H3UFGkFm95STktniJLg-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.974;exitY=0.306;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6H3UFGkFm95STktniJLg-4" target="9hpmNjstcmv_1WwBuSR--19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="730" as="sourcePoint" />
-            <mxPoint x="517.5" y="720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6H3UFGkFm95STktniJLg-4" value="ID заселения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="700" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
